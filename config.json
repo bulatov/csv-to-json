@@ -1,0 +1,10 @@
+{
+  "delimeter": "||",
+  "linesLimit": 0,
+  "cli": {
+    "zip": "zip",
+    "output": "output",
+    "structure": "structure"
+  },
+  "tmpDir": ".tmp"
+}

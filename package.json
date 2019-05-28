@@ -1,0 +1,20 @@
+{
+  "name": "csv-to-json",
+  "version": "1.0.0",
+  "description": "CLI tool to parse and transform ZIP with CSV files into JSON using user-defined structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bulatov/csv-to-json.git"
+  },
+  "author": "Fikret Bulatov",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "moment": "^2.24.0",
+    "unzipper": "^0.9.15"
+  }
+}
